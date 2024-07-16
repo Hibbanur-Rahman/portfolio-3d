@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import ThreeScene from './components/threeScene'
 
 
-function App() {
+const App=()=> {
 
   return (
     <div className='row m-0 p-0 '>
