@@ -32,7 +32,9 @@ import {
     linkedin,
     discord,
     github,
+
   } from "../assets";
+  import meity from '../assets/meity.png'
   
   export const navLinks = [
     {
@@ -55,7 +57,7 @@ import {
       icon: web,
     },
     {
-      title: "iOS  Developer",
+      title: "mobile app  Developer",
       icon: mobile,
     },
     {
@@ -158,10 +160,10 @@ import {
   const experiences = [
     {
       title: "Internship",
-      company_name: "Netcad Yazılım A.Ş",
-      icon: netcad,
+      company_name: "Meity gov of India",
+      icon: meity,
       iconBg: "#383E56",
-      date: "Aug 2021 - Sept 2021",
+      date: "Mar 2023 - Dec 2023",
       points: [
         "Developing a user-friendly autonomous system in order to schedule basic operations for machines while using JS, Html, Bootstrap and css.",
         "Drawing a table and chart for scheduled operations while using chart.js",
@@ -172,11 +174,11 @@ import {
       ],
     },
     {
-      title: "Internship",
-      company_name: "Microsoft",
-      icon: microsoft,
+      title: "Web Developer Internship",
+      company_name: "Meity gov of India",
+      icon: meity,
       iconBg: "#E6DEDD",
-      date: "Feb 2022 - Nov 2022",
+      date: "Mar 2024 - Jun 2024",
       points: [
          "Experienced in working with customers both onsite and online, including conducting meetings and delivering presentations to analyze customer profiles and needs.",
          "Demonstrated the ability to work effectively in cross-functional teams and tackle challenges.",
