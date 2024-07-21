@@ -26,8 +26,8 @@ const App=()=> {
       <Tech/>
       <Works/>
       <Feedbacks/>
-      <Education/>
-      <Socials/>
+      {/* <Education/>
+      <Socials/> */}
       <div className='relative z-0'>
         <Contact/>
         <StarsCanvas/>
